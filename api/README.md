@@ -1,4 +1,4 @@
-# AirBnB clone - RESTful API
+'''AirBnB clone - RESTful API'''
 This directory contains Flask web applications for a RESTful API
 ## File Structure
 - **[v1](v1)** directory contains the first version of the API
